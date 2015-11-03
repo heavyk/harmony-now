@@ -1,0 +1,21 @@
+{
+  "name": "harmony-now",
+  "version": "1.0.0",
+  "description": "use harmony features now (in modern v8 environments)",
+  "author": "Kenneth Edward Bentley <mechanicofthesequence@gmail.com>",
+  "license": "Unlicense",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/heavyk/harmony-now.git"
+  },
+  "github": "https://github.com/heavyk/harmony-now",
+  "scripts": {
+    "test": "ava"
+  },
+  "dependencies": {
+    "harmony-reflect": "^1.4.2"
+  },
+  "devDependencies": {
+    "ava": "^0.3.0"
+  }
+}
